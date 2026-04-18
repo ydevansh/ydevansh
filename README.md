@@ -133,3 +133,12 @@
 </p>
 
 ---
+<h3 align="center">📊 My Coding Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ydevansh&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ydevansh&theme=tokyonight&hide_border=true" />
+</p>
