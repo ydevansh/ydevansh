@@ -20,6 +20,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=400&lines=👀+People+are+visiting+my+profile..." />
 </p>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ydevansh&color=00BFFF&style=for-the-badge" />
 </p>
