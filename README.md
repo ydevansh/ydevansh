@@ -17,11 +17,11 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=400&lines=👀+People+are+visiting+my+profile..." />
+  <img src="https://img.shields.io/badge/👀%20Profile%20Views-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ydevansh&color=00BFFF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ydevansh&color=00BFFF&style=for-the-badge&label=" />
 </p>
 
 ---
