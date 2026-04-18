@@ -41,16 +41,30 @@
 ---
 
 ## 📫 Connect With Me
+<h3 align="center">🤝 Connect with me</h3>
+
 <p align="center">
-  <a href="mailto:yaduvanshidevansh3336@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Devansh-blue?style=for-the-badge&logo=gmail" />
-  </a>
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ydevansh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Devansh-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Devansh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <!-- Email -->
+  <a href="mailto:yaduvanshidevansh3336@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Devansh-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
   <a href="https://instagram.com/codewithdeva" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-codewithdeva-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/916388525760" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
 </p>
 
 ---
