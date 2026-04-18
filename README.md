@@ -23,8 +23,12 @@
 ---
 
 <!-- Trophy -->
+<h3 align="center">⚡ About Me</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=header"/>
+  🚀 Passionate about <b>AI & Development</b><br>
+  💡 Love building <b>real-world projects</b><br>
+  🎯 Focused on becoming a <b>Full Stack + AI Engineer</b><br>
 </p>
 
 ---
