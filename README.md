@@ -82,13 +82,30 @@
 ---
 
 ## 🤝 Connect with me
+<h3 align="left">🤝 Connect with me</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/ydevansh" target="blank">
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ydevansh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <a href="https://instagram.com/codewithdeva" target="blank">
+
+  <!-- Email -->
+  <a href="mailto:yaduvanshidevansh3336@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/codewithdeva" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/916388525760" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="50"/>
+  </a>
+
 </p>
 
 ---
