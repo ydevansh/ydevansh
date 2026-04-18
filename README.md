@@ -113,7 +113,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,c,css,git,html,java,js,mysql,postgres,python,react&perline=6" />
+  <img src="https://skillicons.dev/icons?i=bash,c,css,git,html,java,js,mysql,postgres,mongodb,python,react&perline=6" />
 </p>
 
 ---
