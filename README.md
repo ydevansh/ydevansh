@@ -19,10 +19,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/👀%20Profile%20Views-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ydevansh&label=👀%20Visitors&color=0d1117&labelColor=0d1117&style=flat" />
+  <sub>
+    👁️‍🗨️ Visitors
+  </sub>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ydevansh&label=&color=0d1117&style=flat" height="22"/>
 </p>
+
 
 ---
 
