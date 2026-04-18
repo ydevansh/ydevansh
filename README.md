@@ -20,11 +20,9 @@
   <img src="https://img.shields.io/badge/👀%20Profile%20Views-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <p align="center">
-  <sub>
-    👁️‍🗨️ Visitors
-  </sub>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ydevansh&label=&color=0d1117&style=flat" height="22"/>
+  <b style="font-size:18px;">
+    👀 <img src="https://komarev.com/ghpvc/?username=ydevansh&label=&color=00000000&style=flat-square" height="20"/>
+  </b>
 </p>
 
 
