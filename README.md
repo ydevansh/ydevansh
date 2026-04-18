@@ -23,12 +23,8 @@
 ---
 
 <!-- Trophy -->
-<h3 align="center">⚡ About Me</h3>
-
 <p align="center">
-  🚀 Passionate about <b>AI & Development</b><br>
-  💡 Love building <b>real-world projects</b><br>
-  🎯 Focused on becoming a <b>Full Stack + AI Engineer</b><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&center=true&vCenter=true&width=600&lines=>+Initializing+Devansh+Profile...;>+Loading+Skills...;>+AI+%7C+Web+Dev+%7C+DSA;>+Status:+Always+Learning+🚀" />
 </p>
 
 ---
