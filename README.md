@@ -16,9 +16,7 @@
 ---
 
 <!-- Profile Views -->
-<p align="center">
-  <img src="https://img.shields.io/badge/👀%20Profile%20Views-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ydevansh&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
 </p>
