@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 <b>BCA Student</b> | 💻 <b>Coding & AI Enthusiast</b><br>
+  🚀 <b>BCA Student at BBDU</b> | 💻 <b>Coding & AI Enthusiast</b><br>
   ⚡ <i>Building Projects • Learning Daily • Sharing Knowledge</i><br>
   🔁 <b>Code → Learn → Contribute → Repeat</b>
 </h3>
@@ -16,7 +16,6 @@
 ---
 
 <!-- Profile Views -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ydevansh&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
 </p>
@@ -26,6 +25,13 @@
 <!-- Trophy -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&center=true&vCenter=true&width=600&lines=>+Initializing+Devansh+Profile...;>+Loading+Skills...;>+AI+%7C+Web+Dev+%7C+DSA;>+Status:+Always+Learning+🚀" />
+</p>
+
+---
+
+## 🌐 My Portfolio
+<p align="center">
+  🚀 <a href="https://ydevansh.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>
 </p>
 
 ---
@@ -82,35 +88,6 @@
 
 ---
 
-## 🤝 Connect with me
-<h3 align="left">🤝 Connect with me</h3>
-
-<p align="center">
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/ydevansh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:yaduvanshidevansh3336@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/codewithdeva" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/916388525760" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="50"/>
-  </a>
-
-</p>
-
----
-
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -134,12 +111,9 @@
 </p>
 
 ---
+
 <h3 align="center">📊 My Coding Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ydevansh&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ydevansh&theme=tokyonight&hide_border=true" />
 </p>
